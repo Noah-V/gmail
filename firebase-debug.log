@@ -65,3 +65,6 @@ You're about to initialize a Firebase project in this directory:
 [debug] [2022-07-05T22:52:05.877Z] >>> [apiv2][query] GET https://api.github.com/repos/Noah-V/gmail-clone/actions/secrets/public-key type=owner
 [debug] [2022-07-05T22:52:06.621Z] <<< [apiv2][status] GET https://api.github.com/repos/Noah-V/gmail-clone/actions/secrets/public-key 404
 [debug] [2022-07-05T22:52:06.621Z] <<< [apiv2][body] GET https://api.github.com/repos/Noah-V/gmail-clone/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest/reference/actions#get-a-repository-public-key"}
+[debug] [2022-07-05T22:54:07.046Z] >>> [apiv2][query] GET https://api.github.com/repos/Noah-V/gmail-clone/actions/secrets/public-key type=owner
+[debug] [2022-07-05T22:54:08.100Z] <<< [apiv2][status] GET https://api.github.com/repos/Noah-V/gmail-clone/actions/secrets/public-key 404
+[debug] [2022-07-05T22:54:08.100Z] <<< [apiv2][body] GET https://api.github.com/repos/Noah-V/gmail-clone/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest/reference/actions#get-a-repository-public-key"}
